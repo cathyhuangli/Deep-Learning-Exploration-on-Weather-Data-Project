@@ -1,4 +1,4 @@
-# Using Neural Networks for time series prediction
+# Neural Networks for time series prediction
 In this project, I have applied CNN, RNN, TensorFlow, Keras using Python, implemented basic neural models for the data, and then fine tuned on the selected models.
 
 ## Neural Network Architecture Experiment
